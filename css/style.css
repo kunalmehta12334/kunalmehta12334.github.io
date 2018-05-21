@@ -1,0 +1,142 @@
+body,html{
+  margin:0;
+  padding:0;
+  background:#aaa;
+  font-family: 'Indie Flower', cursive;
+  font-size:21px;
+}
+
+/*******************
+HEADER
+*******************/
+header{
+  position:fixed;
+  width: 100%;
+}
+
+/*************
+ABOUT PAGE
+*************/
+.line{
+  border-width:2px;
+  border-color:white;
+}
+
+#about{
+  padding-top: 50px;
+  background:grey;
+}
+
+#about_paragraph{
+ text-align:center;
+ padding:10%;
+}
+
+#about_img img{
+  border-radius:100%;
+}
+
+/**************
+PORTFOLIO PAGE
+**************/
+#portfolio{
+  background:white;
+  color:#777;
+}
+
+.line2{
+  border-width:5px;
+  border-color:#777;
+}
+
+.portfolioImg{
+  width:90%;
+  margin: 2% 5%;
+}
+
+#portfolio h1{
+  padding-top:30px;
+}
+
+/********************
+CONTACT PAGE
+********************/
+#contact h1{
+  color:#777;
+}
+
+#contact{
+  background:#ddd;
+  padding-bottom:20px;
+}
+
+#contact p{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#contact button{
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+input{
+ background:#ddd !important;
+}
+
+label{
+  margin-left:10px;
+}
+
+.form4{
+  height: 300px !important;
+}
+
+
+/*****************
+FOOTER
+*****************/
+footer{
+  font-size:30px;
+}
+
+#down_footer{
+  background:yellow;
+  padding-bottom:20px;
+}
+
+.facebook-icon{
+  font-size:60px;
+}
+
+/***********************
+ARROW
+***********************/
+.arrow{
+ color:yellow;
+ font-size:50px;
+ position:fixed;
+ right:5%;
+ bottom:3%;
+}
+
+.arrow a{
+  color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
